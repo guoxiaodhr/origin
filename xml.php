@@ -17,8 +17,8 @@ function arrayToXml($arr){
 }						
 
 echo arrayToXml($cars) ;
+		
 
-
-echo 'asdasdadas';					
+echo 'modify test';
 ?>
 
